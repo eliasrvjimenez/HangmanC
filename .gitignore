@@ -1,7 +1,7 @@
 .vscode/
 
 build/CMakeFiles/
-build/cmake_install_cmake
+build/cmake_install.cmake
 build/CMakeCache.txt
 build/hangman
 build/Makefile
